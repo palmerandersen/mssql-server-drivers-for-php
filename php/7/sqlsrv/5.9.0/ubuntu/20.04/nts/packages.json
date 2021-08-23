@@ -11,7 +11,7 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/heroku-softtrends/heroku-mssql-addon-ubuntu-extns/main/php/7/sqlsrv/5.9.0/ubuntu/20.04/nts/raw/main/ext-sqlsrv-5.9.0_php-7.4.tar.gz"
+					"url": "https://github.com/heroku-softtrends/heroku-mssql-addon-ubuntu-extns/raw/main/php/7/sqlsrv/5.9.0/ubuntu/20.04/nts/ext-sqlsrv-5.9.0_php-7.4.tar.gz"
 				},
 				"time": "2021-08-23"
 			},
@@ -25,7 +25,7 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/heroku-softtrends/heroku-mssql-addon-ubuntu-extns/main/php/7/sqlsrv/5.9.0/ubuntu/20.04/nts/raw/main/ext-pdo_sqlsrv-5.9.0_php-7.4.tar.gz"
+					"url": "https://github.com/heroku-softtrends/heroku-mssql-addon-ubuntu-extns/raw/main/php/7/sqlsrv/5.9.0/ubuntu/20.04/nts/ext-pdo_sqlsrv-5.9.0_php-7.4.tar.gz"
 				},
 				"time": "2021-08-23"
 			}
