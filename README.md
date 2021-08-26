@@ -1,2 +1,1 @@
-# heroku-mssql-addon-ubuntu-extns
-Heroku MSSQL Addon Ubuntu Extensions
+# MS-SQL Server Driver 17 For Ubuntu-20.04 PHP-^7+ Applications
