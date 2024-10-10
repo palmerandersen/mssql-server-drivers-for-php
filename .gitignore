@@ -1,0 +1,14 @@
+
+# Ignore the .DS_Store file globally
+.DS_Store
+
+# Ignore the .idea directory and its contents
+.idea/
+
+# Ignore .DS_Store files in specific directories
+5.12.0/.DS_Store
+5.12.0/ubuntu/.DS_Store
+5.12.0/ubuntu/24.04/.DS_Store
+5.12.0/ubuntu/24.04/php/.DS_Store
+5.12.0/ubuntu/24.04/php/8.2/.DS_Store
+5.12.0/ubuntu/24.04/php/8.2/nts/.DS_Store
