@@ -11,9 +11,9 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/Jaimaldullat/mssql-server-drivers-for-php/raw/main/5.12.0/ubuntu/24.04/php/8.3/nts/ext-sqlsrv-5.12.0_php-8.3.tar.gz"
+					"url": "https://github.com/palmerandersen/mssql-server-drivers-for-php/raw/main/5.12.0/ubuntu/24.04/php/8.3/nts/ext-sqlsrv-5.12.0_php-8.3.tar.gz"
 				},
-				"time": "2022-08-29"
+				"time": "2023-08-31"
 			},
 			{
 				"name": "heroku-sys/ext-pdo_sqlsrv",
@@ -25,9 +25,9 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/Jaimaldullat/mssql-server-drivers-for-php/raw/main/5.12.0/ubuntu/24.04/php/8.3/nts/ext-pdo_sqlsrv-5.12.0_php-8.3.tar.gz"
+					"url": "https://github.com/palmerandersen/mssql-server-drivers-for-php/raw/main/5.12.0/ubuntu/24.04/php/8.3/nts/ext-pdo_sqlsrv-5.12.0_php-8.3.tar.gz"
 				},
-				"time": "2022-08-29"
+				"time": "2023-08-31"
 			}
 		]
 	]
