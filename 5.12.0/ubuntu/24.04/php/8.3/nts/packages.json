@@ -6,7 +6,7 @@
 				"version": "5.12.0",
 				"type": "heroku-sys-php-extension",
 				"require": {
-					"php": "~8.2.0 || ~8.3.0",
+					"php": "~8.2.0 || ~8.3.0 || ~8.4.0",
 					"heroku/installer-plugin": "^1.2.0"
 				},
 				"dist": {
